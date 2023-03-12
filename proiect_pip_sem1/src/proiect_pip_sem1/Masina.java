@@ -68,13 +68,6 @@ public class Masina {
 
 	//____________BRIDGE DESIGN PATTERN_____________
 	
-	//În acest cod, modelul de proiectare Bridge este utilizat 
-	//pentru a decupla abstracțiile (reprezentate prin interfața „abstractie_cheie” și clasele „AudiKey” și 
-	//„BMWKey”) de implementările lor (reprezentate prin interfața „cheie_generala” și „cheie_bmw_implementor” și clasele 
-	//"cheie_audi_implementor"). Implementatorii concreti oferă implementări specifice ale funcțiilor definite de 
-	//interfața „cheie_generala”, iar aceste implementări pot fi utilizate de abstracțiile rafinate prin câmpul „implementor”, care este o instanță a interfeței 
-	//„cheie_generala”. Acest lucru permite abstracțiilor și implementărilor lor să varieze independent.
-	
 	//Modelul Design Brdige permite decuplarea unei abstractii de implementarea sa, astfel incat cele doua sa poata varia independent.
 	//Acest lucru poate fi util atunci cand dorim sa schimbam implementarea unei abstractii fara a afecta codul client care o utilizeaza.
 	
