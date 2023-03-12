@@ -115,19 +115,19 @@ public class Masina {
 		@Override
 		public void pornire_motor() {
 			// TODO Auto-generated method stub
-			textArea_audi.append("\n Pornire motor");
+			textArea_audi.append("\n Pornire motor Audi Q3");
 		}
 
 		@Override
 		public void deschidere_centralizata() {
 			// TODO Auto-generated method stub
-			textArea_audi.append("\n Deschidere centralizata");
+			textArea_audi.append("\n Deschidere centralizata Audi Q3");
 		}
 
 		@Override
 		public void deschidere_trapa() {
 			// TODO Auto-generated method stub
-			textArea_audi.append("\n Deschidere trapa");
+			textArea_audi.append("\n Deschidere trapa Audi Q3");
 		}
 	}
 	
