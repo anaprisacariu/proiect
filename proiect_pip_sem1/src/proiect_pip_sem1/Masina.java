@@ -92,19 +92,19 @@ public class Masina {
 		@Override
 		public void pornire_motor() {
 			// TODO Auto-generated method stub
-			textArea_bmw.append("\n Pornire motor");	
+			textArea_bmw.append("\n Pornire motor BMW e46");	
 		}
 
 		@Override
 		public void deschidere_centralizata() {
 			// TODO Auto-generated method stub
-			textArea_bmw.append("\n Deschidere centralizata");
+			textArea_bmw.append("\n Deschidere centralizata BMW e46");
 		}
 
 		@Override
 		public void deschidere_trapa() {
 			// TODO Auto-generated method stub
-			textArea_bmw.append("\n Deschidere trapa");
+			textArea_bmw.append("\n Deschidere trapa BMW e46");
 		}
 
 	}
