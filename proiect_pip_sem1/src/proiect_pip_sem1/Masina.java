@@ -30,6 +30,7 @@ import java.awt.Color;
 import javax.swing.JScrollPane;
 import javax.swing.JScrollBar;
 
+//Adaug un comentariu!!
 
 public class Masina {
 
